@@ -6,3 +6,4 @@ functions destructivelyAppendKitten(name){
   kittens.splice(-2, 0, name)
   return kittens
 }
+
